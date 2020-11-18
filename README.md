@@ -2,6 +2,8 @@
 Make digital voice radio (M17 Digital Voice) play yourself over the internet width M5Stack.
 The project made M5Stack to talk digital voice with M17 mode via wifi display on the screen. Set up via the web Press the key to speak when mike or listening.
 
+![image](https://github.com/nakhonthai/M5DV/raw/main/img/M5DV_V01.png)
+
 ## Equipment needed
 - 1.M5Stack 1pc
 - 2.Mic MAX9814 Adafruit module 1pc
