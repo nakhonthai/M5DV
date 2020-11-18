@@ -30,7 +30,7 @@ To connect, connect the mic pin Vdd-> 3.3V, GND-> GND and Out -> GPIO36 (AD) in 
 - Push A hold and pwr/reset for Factory default.
 
 ## M17-THA Reflector
-  Name: M17-THA
-  IP: 203.150.19.24
-  PORT: 17000
-  Dashboard: https://m17.dprns.com
+	Name: M17-THA
+	IP: 203.150.19.24
+	PORT: 17000
+	Dashboard: https://m17.dprns.com
