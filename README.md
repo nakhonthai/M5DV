@@ -28,6 +28,8 @@ To connect, connect the mic pin Vdd-> 3.3V, GND-> GND and Out -> GPIO36 (AD) in 
 - Push C KEY for PTT 3200 Voice Mode
 - Push B KEY for PTT 1600 V/D Mode
 - Push A hold and pwr/reset for Factory default.
+- Push A hold + B for Volume down / C for Volume up
+- Double Push A at hold + B for Mic down / C for Mic up
 
 ## M17-THA Reflector
 	Name: M17-THA
