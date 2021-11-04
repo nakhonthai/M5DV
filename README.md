@@ -14,7 +14,7 @@ To connect, connect the mic pin Vdd-> 3.3V, GND-> GND and Out -> GPIO36 (AD) in 
 
 ## M5STACK firmware installation (do it first, next, update via web)
 - 1.Connect the USB cable to the M5STACK.
-- 2.Download firmware and open the program ESP32 DOWNLOAD TOOL, set it in the firmware upload program, set the firmware to M5DV_Vxx.bin, location 0x10000 and partitions.bin at 0x8000 and bootloader.bin at 0x10000 and boot.bin at 0xe000, if not loaded, connect GPIO0 cable to GND, press START button finished, press power button or reset (red) again.
+- 2.Download firmware and open the program ESP32 DOWNLOAD TOOL, set it in the firmware upload program, set the firmware to M5DV_Vxx.bin, location 0x10000 and partitions.bin at 0x8000 and bootloader.bin at 0x1000 and boot.bin at 0xe000, if not loaded, connect GPIO0 cable to GND, press START button finished, press power button or reset (red) again.
 - 3.Keep the left button (A) pressed and press the power button or plug in to default setting.
 - 4.Then go to WiFi SSID: M5DV and open a browser to the website. http://192.168.4.1 Can be fixed Or turn on your Wi-Fi router / share SSID name: APRSTH Pass: aprsthnetwork Then enter with IP from M5Stack, receive IP from LCD screen.
 
